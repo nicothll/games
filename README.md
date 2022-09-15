@@ -1,2 +1,4 @@
-# games
-Python games
+# Python Games
+
+
+## The Snake
